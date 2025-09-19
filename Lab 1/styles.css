@@ -1,0 +1,31 @@
+body {
+  font-family: sans-serif; /* Use a clean, readable sans-serif font */
+  margin: 20px; /* Add some margin around the body content */
+  padding: 10px; /* Add some padding within the body */
+  background-color: lightgray
+  
+}
+
+
+h1 {
+  font-size: 2em; /* Make the heading larger */
+  font-weight: bold; /* Make the heading bold */
+  color: #333; /* A dark, but not pure black, color for the heading */
+}
+
+p {
+  font-size: 0.9em; /* Slightly smaller than the default for readability */
+  line-height: 1.5; /* Increase line spacing for better readability */
+  color: #555; /* A slightly muted color for paragraph text */
+}
+
+li {
+  margin-bottom: 5px; /* Add a small space between list items */
+}
+
+footer {
+  font-size: 0.8em; /* Make footer text smaller */
+  color: #888; /* Use a muted, lighter gray color */
+  text-align: center; /* Center the footer text */
+  margin-top: 20px; /* Add some space above the footer */
+}
